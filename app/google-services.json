@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473958926250",
+    "project_id": "socialmedialogin-a7fed",
+    "storage_bucket": "socialmedialogin-a7fed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473958926250:android:a97e896a926901019fcdd3",
+        "android_client_info": {
+          "package_name": "com.example.socialmedialogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473958926250-i46qus3afvvcov5t8grrb8fmclmov741.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEqiICvYfTyGxueyYfu3A5S9PS5FrS7Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473958926250-i46qus3afvvcov5t8grrb8fmclmov741.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
